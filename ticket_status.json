@@ -2,12 +2,12 @@
     "1360917537864552479": {
         "author": "770636197797953566",
         "reason": "No reason provided",
-        "status": "open"
+        "status": "closed"
     },
     "1360924834552483960": {
         "author": "770636197797953566",
         "reason": "No reason provided",
-        "status": "open"
+        "status": "closed"
     },
     "1360967583406358559": {
         "author": "770636197797953566",
@@ -18,5 +18,307 @@
         "author": "770636197797953566",
         "reason": "No reason provided",
         "status": "closed"
+    },
+    "1361320139651289199": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed"
+    },
+    "1361323512677273652": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed"
+    },
+    "1361659599400468530": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed"
+    },
+    "1361659928955060285": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed"
+    },
+    "1361661841012560003": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed"
+    },
+    "1361670917591142511": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed"
+    },
+    "1362400569230229736": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed"
+    },
+    "1362401928621068349": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed"
+    },
+    "1362406011457110097": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 2
+    },
+    "1362408034797617213": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 3
+    },
+    "1362409296939323603": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "medium",
+        "status": "closed",
+        "api_ticket_id": 4
+    },
+    "1362409365423788054": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "high",
+        "status": "closed",
+        "api_ticket_id": 5
+    },
+    "1362414463109562531": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 6
+    },
+    "1362414500036214819": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 7
+    },
+    "1362414644928450701": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 8
+    },
+    "1362414673642787067": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 9
+    },
+    "1362414690579251440": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 10
+    },
+    "1362416222771347615": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 11
+    },
+    "1362420424482357371": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 12,
+        "guild_id": "1360589235081580705"
+    },
+    "1362424259967713421": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "open",
+        "api_ticket_id": 13,
+        "guild_id": "1360589235081580705"
+    },
+    "1362425570365014196": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "open",
+        "api_ticket_id": 14,
+        "guild_id": "1360589235081580705"
+    },
+    "1362431697664217230": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "open",
+        "api_ticket_id": 15,
+        "guild_id": "1360589235081580705"
+    },
+    "1362433981727113347": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "open",
+        "api_ticket_id": 16,
+        "guild_id": "1360589235081580705"
+    },
+    "1362435319085142066": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "open",
+        "api_ticket_id": 17,
+        "guild_id": "1360589235081580705"
+    },
+    "1362436659437764740": {
+        "author": "770636197797953566",
+        "reason": "my id hacked",
+        "severity": "low",
+        "status": "open",
+        "api_ticket_id": 18,
+        "guild_id": "1360589235081580705"
+    },
+    "1362458773502955762": {
+        "author": "770636197797953566",
+        "reason": "hello",
+        "severity": "low",
+        "status": "open",
+        "api_ticket_id": 19,
+        "guild_id": "1360589235081580705"
+    },
+    "1362459271408783531": {
+        "author": "770636197797953566",
+        "reason": "hello",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 20,
+        "guild_id": "1360589235081580705"
+    },
+    "1362471470449819842": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "open",
+        "api_ticket_id": 21,
+        "guild_id": "1360589235081580705"
+    },
+    "1362723508110491880": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 22,
+        "guild_id": "1360589235081580705"
+    },
+    "1362723838709993584": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 23,
+        "guild_id": "1360589235081580705"
+    },
+    "1362725691086471258": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 24,
+        "guild_id": "1360589235081580705"
+    },
+    "1362726757953835019": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "open",
+        "api_ticket_id": 25,
+        "guild_id": "1360589235081580705"
+    },
+    "1362727008596922460": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 26,
+        "guild_id": "1360589235081580705"
+    },
+    "1363801273371066430": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 27,
+        "guild_id": "1360589235081580705"
+    },
+    "1363802755558277190": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 28,
+        "guild_id": "1360589235081580705"
+    },
+    "1363811011853029467": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 29,
+        "guild_id": "1360589235081580705"
+    },
+    "1363812574705090641": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 30,
+        "guild_id": "1360589235081580705"
+    },
+    "1363814112924143636": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 31,
+        "guild_id": "1360589235081580705"
+    },
+    "1363815388961308694": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 32,
+        "guild_id": "1360589235081580705"
+    },
+    "1363817352206090450": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 33,
+        "guild_id": "1360589235081580705"
+    },
+    "1363818890961883177": {
+        "author": "770636197797953566",
+        "reason": "hacked",
+        "severity": "low",
+        "status": "closed",
+        "api_ticket_id": 34,
+        "guild_id": "1360589235081580705"
     }
 }
