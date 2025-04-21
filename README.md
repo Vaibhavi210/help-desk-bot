@@ -42,8 +42,8 @@ A full-featured Discord bot built with `discord.py` to manage support tickets wi
 2. **Setup**
 ```bash
 # Clone repository
-git clone https://github.com/yourname/discord-ticket-bot.git
-cd discord-ticket-bot
+https://github.com/Vaibhavi210/help-desk-bot.git
+cd help-desk-bot
 
 # Install dependencies
 pip install -r requirements.txt
@@ -56,6 +56,16 @@ Edit .env:
 
 DISCORD_TOKEN=your_bot_token_here
 API_URL=http://localhost:8000/api/ticket/
+
+# to run
+python bot.py
+
+## to run django app
+cd backend
+set up database config
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
 
 # Configuration ⚙️
 Discord Setup
